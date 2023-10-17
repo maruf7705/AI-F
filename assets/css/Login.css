@@ -4,7 +4,7 @@
 }
 
 body{
-  background-image: url(1330653.png);
+  background-image: url(drones.png);
   width: 100%;
   height: 100vh;
   background-position: center;
@@ -67,7 +67,7 @@ flex: 1;
   height: 75%;
   width: 75%;
   transform: translate(-50% , -50%);
-  background-image: url(1330653.png);
+  background-image: url(drones.png);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -99,7 +99,7 @@ flex: 1;
   top: 50px;
   font-size: 3.5em;
   text-align: center;
-  color: #fff;
+  color: #c0f081;
 }
 
 .content h3 {
