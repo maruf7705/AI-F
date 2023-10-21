@@ -4168,7 +4168,7 @@ iframe {
 	text-transform: capitalize;
 }
 .header_wrap.fixed-top:not(.sidebar_menu) + .breadcrumb_section {
-	padding-top: 160px;
+	padding-top: 1px;
 }
 /*===================================*
   14. END BREADCRUMB SECTION
