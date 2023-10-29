@@ -1,7 +1,3 @@
 # html-part-1
-1. Make some video clip
-2. Make 3d ai video genarator
-3. Powerpoint video clip make
-4. 3D
-5. Update a new
-6. 
+1.MY MODEL IS WRONG
+2. IS THIS ME
